@@ -1,4 +1,4 @@
-import{c as ee,j as f}from"./index-D7SQIK_i.js";import{L as xe}from"./vendor-react-CUtAopOb.js";/**
+import{c as ee,j as f}from"./index-B995iYvN.js";import{L as xe}from"./vendor-react-CUtAopOb.js";/**
  * @license lucide-react v1.27.0 - ISC
  *
  * This source code is licensed under the ISC license.
